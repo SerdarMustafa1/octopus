@@ -64,7 +64,7 @@ const Prices = () => {
     return (
       <Container>
         <Header>
-          <h1>Octopus Prices</h1>
+          <h1>Octopus Prices </h1>
         </Header>
         <List>
           {prices
